@@ -36,7 +36,7 @@ The BabbleKingdom grows
     <script>
         // ----- CONFIGURATION -----
         let totalBabies = 10000; // valeur initiale estimée aujourd'hui
-        const birthsPerSecond = 4.2; // naissances par seconde approximatives
+        const birthsPerSecond = 1; // naissances par seconde approximatives
         const counterElement = document.getElementById('counter');
 
         // Fonction pour mettre à jour le compteur chaque seconde
