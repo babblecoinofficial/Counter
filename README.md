@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,6 +29,7 @@
 </head>
 <body>
     <h1>BabbleCoin is growing… 🍼</h1>
+    <div id="counter">0</div>
     <p>Tracking estimated global births in real-time to power the BabbleKingdom!</p>
 
     <script>
