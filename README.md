@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,13 +28,12 @@
 </head>
 <body>
     <h1>BabbleCoin is growing… 🍼</h1>
-    <div id="counter">0</div>
     <p>Tracking estimated global births in real-time to power the BabbleKingdom!</p>
 
     <script>
         // ----- CONFIGURATION -----
-        let totalBabies = 370000; // valeur initiale estimée aujourd'hui
-        const birthsPerSecond = 4.2; // naissances par seconde approximatives
+        let totalBabies = 10000; // valeur initiale estimée aujourd'hui
+        const birthsPerSecond = 5.2; // naissances par seconde approximatives
         const counterElement = document.getElementById('counter');
 
         // Fonction pour mettre à jour le compteur chaque seconde
