@@ -1,6 +1,6 @@
 # Counter
 The BabbleKingdom grows
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@ The BabbleKingdom grows
 
     <script>
         // ----- CONFIGURATION -----
-        let totalBabies = 370000; // valeur initiale estimée aujourd'hui
+        let totalBabies = 10000; // valeur initiale estimée aujourd'hui
         const birthsPerSecond = 4.2; // naissances par seconde approximatives
         const counterElement = document.getElementById('counter');
 
